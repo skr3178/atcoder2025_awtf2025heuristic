@@ -45,7 +45,6 @@ Thumbs.db
 # Output files
 output_*.txt
 *.html
-*.gif
 
 # Temporary files
 *.tmp
